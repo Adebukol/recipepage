@@ -1,6 +1,6 @@
 body{
-    margin: 100px auto 100px auto;
-    background: oldlace;
+    margin: 150px auto 100px auto;
+    background: hsl(327, 33%, 89%);
     font-family: "Outfit", sans-serif;
     font-family: "Young Serif", serif;
 }
@@ -15,7 +15,7 @@ body{
     margin-bottom: 30px;
 }
 .container{
-    padding: 2rem;
+    padding: 2.7rem;
 }
 img{
     width: 100%;
